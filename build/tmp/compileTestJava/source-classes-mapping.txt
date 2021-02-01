@@ -1,2 +1,0 @@
-exitProject/web/mainControllerTest.java
- exitProject.web.mainControllerTest
