@@ -1,7 +1,7 @@
 package exitProject.domain.repository;
 
-import exitProject.domain.dao.Posts;
-import javafx.geometry.Pos;
+import exitProject.domain.post.Posts;
+import exitProject.domain.post.PostsRepository;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;
